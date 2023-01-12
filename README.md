@@ -2,6 +2,8 @@
 
 Static Website
 
+https://mfaizandev537.github.io/MyFirstPage.github.io/myfirstpage.html
+
 StreamLit Website
 
 
